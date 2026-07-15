@@ -8,8 +8,8 @@
 ---
 
 ## Phase 2
-- [ ] Select Dataset
-- [ ] Understand Business Problem
+- [x] Select Dataset
+- [x] Understand Business Problem
 - [ ] Data Dictionary
 
 ---
