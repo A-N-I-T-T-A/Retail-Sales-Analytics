@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Retail Sales Analytics Banner" width="100%">
+</p>
+
 # 🛍️ Retail Sales Analytics
 
 > **An End-to-End Data Analytics Project using SQL, Python, Excel, and Power BI**
