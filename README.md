@@ -168,15 +168,6 @@ Recommendations
 
 ---
 
-# 🚀 Future Enhancements
-
-- Sales Forecasting using Machine Learning
-- Streamlit Dashboard
-- Automated Reporting
-- SQL Stored Procedures
-- Interactive Web Dashboard
-
----
 
 # 👩‍💻 Author
 
