@@ -139,14 +139,14 @@ Recommendations
 | Phase | Status |
 |--------|--------|
 | Repository Setup | ✅ Completed |
-| Folder Structure | ✅ Completed |
-| Dataset Selection | 🔄 In Progress |
-| SQL Analysis | ⏳ Pending |
+| Project Planning | ✅ Completed |
+| Data Exploration | ✅ Completed |
+| SQL Database Design | ✅ Completed |
+| Data Import | 🔄 In Progress |
+| SQL Business Analysis | ⏳ Pending |
 | Python EDA | ⏳ Pending |
 | Excel Dashboard | ⏳ Pending |
 | Power BI Dashboard | ⏳ Pending |
-| Business Report | ⏳ Pending |
-| Final Documentation | ⏳ Pending |
 
 ---
 

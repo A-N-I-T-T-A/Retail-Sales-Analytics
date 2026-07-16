@@ -10,19 +10,19 @@
 ## Phase 2
 - [x] Select Dataset
 - [x] Understand Business Problem
-- [ ] Data Dictionary
+- [x] Data Dictionary
 
 ---
 
 ## Phase 3
-- [ ] SQL Database
+- [x] SQL Database
 - [ ] SQL Analysis
 
 ---
 
 ## Phase 4
-- [ ] Python Data Cleaning
-- [ ] Exploratory Data Analysis
+- [x] Python Data Cleaning
+- [x] Exploratory Data Analysis
 
 ---
 
