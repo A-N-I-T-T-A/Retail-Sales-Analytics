@@ -16,7 +16,7 @@
 
 ## Phase 3
 - [x] SQL Database
-- [ ] SQL Analysis
+- [x] SQL Analysis
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 ## Phase 5
-- [ ] Excel Dashboard
+- [x] Excel Dashboard
 
 ---
 
@@ -37,10 +37,7 @@
 ---
 
 ## Phase 7
-- [ ] Business Report
+- [x] Business Report
 
 ---
 
-## Phase 8
-- [ ] Final Documentation
-- [ ] LinkedIn Post
